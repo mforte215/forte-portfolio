@@ -1,0 +1,11 @@
+.content-container {
+  padding: 30px;
+  width: 80%;
+  margin: 10vh auto 0 auto;
+  font-size: 2em;
+  text-shadow: 1px 1px 2px black;
+}
+
+.info-paragraph {
+  margin-top: 4%;
+}

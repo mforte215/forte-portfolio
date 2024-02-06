@@ -1,0 +1,13 @@
+.footer {
+  text-align: center;
+}
+
+.footer img {
+  height: 3em;
+  margin-bottom: 3%;
+  border-radius: 8px;
+}
+
+.foot-link {
+  margin: 3%;
+}

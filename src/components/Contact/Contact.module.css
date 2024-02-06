@@ -1,0 +1,31 @@
+.content-container {
+  padding: 30px;
+  width: 80%;
+  margin: 10vh auto 0 auto;
+  font-size: 2em;
+  text-shadow: 1px 1px 2px black;
+}
+
+.info-paragraph {
+  margin-top: 2%;
+  background-color: white;
+}
+
+.contact-form {
+  background-color: white;
+}
+.input-text {
+  background-color: white;
+  font-size: 1.5em;
+  margin-bottom: 2%;
+  color: black;
+}
+
+.submit-button {
+  padding: 15px;
+  font-size: 1em;
+  background-color: #74e291;
+  color: white;
+  border: none;
+  border-radius: 12px;
+}

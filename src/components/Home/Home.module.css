@@ -1,0 +1,31 @@
+.content-container {
+  padding: 30px;
+  width: 80%;
+  margin: 20vh auto 0 auto;
+  font-size: 2em;
+  text-align: center;
+  text-shadow: 1px 1px 2px black;
+}
+
+.button-container {
+  padding-top: 5%;
+  text-align: center;
+}
+
+.big-button {
+  margin: 0 5%;
+  padding: 20px;
+  font-size: 2em;
+  border-image: linear-gradient(#eff396, #74e291) 30;
+  border-radius: 40px;
+  text-shadow: 1px 1px 2px black;
+}
+
+.big-button:hover {
+  border-image: linear-gradient(#74e291, #eff396) 30;
+  transform: scale(1.2);
+}
+
+.more-info {
+  margin-top: 3%;
+}

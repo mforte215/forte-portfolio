@@ -1,0 +1,9 @@
+.main-container {
+  width: 100%;
+  text-align: center;
+  padding-top: 5%;
+}
+
+.main-content {
+  min-height: 75vh;
+}
