@@ -4,6 +4,10 @@
 
 Hey There! Welcome to the Readme for my portfolio. This is a site created with React using Vite! It utilizes a variety of different technologies to deliver a fast and responsive site.
 
+A screenshot of the current site:
+
+![Screenshot of the current online site with the lay of the page displayed](./src/assets/images/siteScreenshot.png)
+
 ## Table of Contents
 
 - [Installation](#installation)
@@ -15,7 +19,7 @@ Hey There! Welcome to the Readme for my portfolio. This is a site created with R
 
 ## Installation
 
-The application can be cloned from GitHub here: https://github.com/mforte215/forte-portfolio. Once cloned, then navigate to the repo in the terminal and once inside, run 'npm install' to install any needed application dependencies. To start the program, run 'npm start:dev'.
+The application can be viewed live here on Netlify: https://rad-profiterole-722f7c.netlify.app/, the site is static, so there is no need to login or sign up.
 
 ## Usage
 
@@ -23,7 +27,7 @@ The program is indeeded to help a user keep track of their notes. It has the abi
 
 A Link to the GitHub Repo: https://github.com/mforte215/forte-portfolio
 
-A URL to the Deployed Application: https://just-another-txt-editor-dca6190f671d.herokuapp.com/
+A URL to the Deployed Application: https://rad-profiterole-722f7c.netlify.app/
 
 ## License
 
