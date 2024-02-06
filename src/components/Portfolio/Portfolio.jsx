@@ -2,7 +2,7 @@ import styles from "./Portfolio.module.css";
 import forecastScreenshot from "../../assets/images/five-day-forecast.png";
 import myMediaFavorites from "../../assets/images/mymediafavorites.png";
 import fractal from "../../assets/images/fractal_one.png";
-import readMeGenerator from "../../assets/images/readMeGenerator.png";
+import readMeGenerator from "../../assets/images/readmeGenerator.png";
 import workDayPlanner from "../../assets/images/work-day-planner.png";
 import svgGenerator from "../../assets/images/svggenerator.png";
 const Portfolio = () => {
