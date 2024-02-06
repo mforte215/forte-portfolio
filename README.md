@@ -15,13 +15,13 @@ Hey There! Welcome to the Readme for my portfolio. This is a site created with R
 
 ## Installation
 
-The application can be cloned from GitHub here: https://github.com/mforte215/the-text-editor-pwa. Once cloned, then navigate to the repo in the terminal and once inside, run 'npm install' to install any needed application dependencies. To start the program, run 'npm start:dev'.
+The application can be cloned from GitHub here: https://github.com/mforte215/forte-portfolio. Once cloned, then navigate to the repo in the terminal and once inside, run 'npm install' to install any needed application dependencies. To start the program, run 'npm start:dev'.
 
 ## Usage
 
 The program is indeeded to help a user keep track of their notes. It has the ability to work online and offline. It can work as an installed app or just a web app
 
-A Link to the GitHub Repo: https://github.com/mforte215/the-text-editor-pwa
+A Link to the GitHub Repo: https://github.com/mforte215/forte-portfolio
 
 A URL to the Deployed Application: https://just-another-txt-editor-dca6190f671d.herokuapp.com/
 
